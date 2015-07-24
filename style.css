@@ -1,0 +1,14 @@
+body
+{
+	background: #EFEFEF;
+	font-family: Arial;
+	font-size: 16px;
+	margin: 0;
+}
+
+header
+{
+	background: #434343;
+	margin: 0;
+	padding: 0.5em;
+}
